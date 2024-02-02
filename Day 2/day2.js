@@ -13,7 +13,7 @@ function writeToFile(filePath, content) {
     }
 }
 
-writeToFile('Day 2/test-files/output1.txt', 'Sample content.');
+writeToFile('Day 2/test-files/output1.txt', 'Rohan Sharma');
 // Expected Output: Data written to output1.txt
 
 writeToFile('Day 2/test-files/nonexistent-folder/output.txt', 'Content in a non-existent folder.');
